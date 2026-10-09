@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+# Add the verified production sitemap URL when domain ownership is confirmed.
